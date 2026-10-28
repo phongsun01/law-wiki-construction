@@ -1,3 +1,11 @@
+## 2026-10-28 — Ingest Chặng 1a (Luật 135/2025/QH15 & Nghị định 217/2026/NĐ-CP)
+
+- Ingest toàn văn Luật Xây dựng số 135/2025/QH15 từ `raw/luat-135-2025.md` (8 Chương, 95 Điều, sha256: `22828f486b96a3399b8e17f93fa9287e2d4eb92968f272dd411680efa06325ff`). Cập nhật status thành `ingested`, ghi nhận hiệu lực 01/07/2026 (ngoại lệ một số điều hiệu lực sớm từ 01/01/2026: K2, K3 Điều 43, Điều 71, K3, K4, K5 Điều 95) và bãi bỏ Luật Xây dựng 50/2014/QH13.
+- Ingest toàn văn Nghị định số 217/2026/NĐ-CP từ `raw/nd-217-2026.md` (5 Chương, 76 Điều, 4 Phụ lục, sha256: `7b2f3c2ca6d10cbce1c0d22119944e567e03ba7adcc0b979eb5f55372a68e229`). Cập nhật status thành `ingested`, ghi nhận hiệu lực 01/07/2026 và bãi bỏ Nghị định số 175/2024/NĐ-CP.
+- Chấm đạt 8/8 câu hỏi kiểm thử Chặng 1a (Q01, Q02, Q03, Q04, Q05, Q06, Q06a, Q06b) trong `tests/cau-hoi-kiem-thu.md`, điền đầy đủ trích dẫn Điều/Khoản và căn cứ pháp lý chính xác.
+- Cập nhật `wiki/INDEX.md`: chuyển trạng thái Luật 135/2025 và NĐ 217/2026 thành `ingested`.
+- Kiểm tra qua `scripts/lint.py`: 0 errors, 0 warnings.
+
 # LOG — Wiki pháp luật xây dựng
 
 ## 2026-10-28 — Skeleton v2.4 (chưa ingest)

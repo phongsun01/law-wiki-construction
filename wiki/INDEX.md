@@ -8,8 +8,8 @@ Dòng nào của bảng này thay đổi trạng thái thì phải cập nhật 
 
 | Văn bản | Ban hành | Hiệu lực | Nhóm | Đợt | Trạng thái |
 |---|---|---|---|---|---|
-| [[documents/luat-135-2025|Luật 135/2025/QH15]] — Luật Xây dựng | 2025-12-10 | 2026-07-01 | I | 1a | pending-ingest |
-| [[documents/nd-217-2026|NĐ 217/2026/NĐ-CP]] — Quản lý hoạt động xây dựng | 2026-06-19 | 2026-07-01 | I | 1a | pending-ingest |
+| [[documents/luat-135-2025|Luật 135/2025/QH15]] — Luật Xây dựng | 2025-12-10 | 2026-07-01 | I | 1a | ingested |
+| [[documents/nd-217-2026|NĐ 217/2026/NĐ-CP]] — Quản lý hoạt động xây dựng | 2026-06-19 | 2026-07-01 | I | 1a | ingested |
 
 ## Đợt 1b — Hợp đồng và chi phí
 
