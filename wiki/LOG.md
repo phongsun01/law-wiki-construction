@@ -1,3 +1,25 @@
+## 2026-10-29 — Rà soát nội dung Chặng 1a so với toàn văn raw
+
+- **Rà soát và sửa đổi theo toàn văn raw (không diễn giải, suy diễn):**
+  - `wiki/documents/luat-135-2025.md`:
+    - Điều 48: sửa chính xác Khoản 1 gồm 5 điều kiện (a–đ), bổ sung đầy đủ Khoản 2 (công trình đặc thù chỉ cần mặt bằng) và Khoản 3 (nhà ở riêng lẻ); bỏ điều kiện thứ 6 tự suy diễn.
+    - Điều 43 Khoản 2: bám sát chính xác các trường hợp miễn GPXD (điểm a–h).
+    - Điều 9: tóm tắt chính xác theo 4 khoản (đầu tư công, dự án PPP có/không có doanh nghiệp dự án, dự án đầu tư có lựa chọn NĐT, và các dự án khác).
+    - Điều 17: phân tách chính xác Khoản 1 (hình thức đầu tư), Khoản 2 (quy mô: quan trọng quốc gia, A, B, C), Khoản 3 (công năng mục đích).
+    - Điều 27: nội dung thẩm định của cơ quan chuyên môn về xây dựng chỉ gồm 4 điểm a–d của Khoản 4; nội dung môi trường, công nghệ, hiệu quả thuộc trách nhiệm của người quyết định đầu tư tại Điều 26.
+    - Điều 95: bổ sung đầy đủ 8 khoản chuyển tiếp, ghi nhận rõ Khoản 3–5 có hiệu lực sớm từ 01/01/2026.
+    - Cập nhật ranh giới 8 Chương: I (1–15), II (16–42), III (43–47), IV (48–72), V (73–87), VI (88–90), VII (91–92), VIII (93–95).
+    - Để `source_url: null` vì chưa có link chính thức trực tiếp tới văn bản.
+  - `wiki/documents/nd-217-2026.md`:
+    - Điều 6: sửa chính xác điều kiện giao cơ quan, tổ chức khác làm chủ đầu tư khi Ban QLDA trực thuộc không đủ năng lực (điểm a có cá nhân đủ năng lực hoặc điểm b đã từng làm CĐT dự án đầu tư công); không gán chung chung "tư cách pháp nhân, có năng lực quản lý dự án".
+    - Điều 53: thẩm quyền cấp GPXD quy định rõ: UBND cấp xã (công trình cấp III, IV và nhà ở riêng lẻ), Ban quản lý KCN/KCX/KCNC/KKT (công trình trong khu), Sở Xây dựng (các công trình còn lại); bổ sung Khoản 4 (cấp cao nhất của dự án, thu hồi của Chủ tịch UBND cấp tỉnh).
+    - Điều 56–62: xóa bỏ cụm từ "02 bộ bản vẽ thiết kế" không có trong raw (thủ tục cấp GPXD thực hiện trực tuyến toàn trình tại Cổng Dịch vụ công quốc gia theo Điều 56).
+    - Điều 31, 38, 39: phân định đúng trách nhiệm thẩm định của cơ quan chuyên môn về xây dựng (Điều 38) và cơ quan chủ trì thẩm định của người quyết định đầu tư (Điều 31, Điều 26 Luật 135).
+    - Điều 44–48: chuẩn hóa tên gọi các hình thức QLDA theo đúng raw.
+    - Để `source_url: null`.
+- **Bộ câu hỏi kiểm thử (`tests/cau-hoi-kiem-thu.md`):** Chuyển trạng thái Q03, Q04, Q06a, Q06b về "Chưa đạt" để rà soát chi tiết từng ý đối chiếu raw, không vội kết luận đạt khi chưa chuẩn hóa từng trích dẫn.
+- **Trạng thái:** Chặng 1a chưa coi là hoàn thành cho đến khi toàn bộ 11 điểm rà soát được chuẩn hóa và các câu kiểm thử được nghiệm thu đạt.
+
 ## 2026-10-28 — Ingest Chặng 1a (Luật 135/2025/QH15 & Nghị định 217/2026/NĐ-CP)
 
 - Ingest toàn văn Luật Xây dựng số 135/2025/QH15 từ `raw/luat-135-2025.md` (8 Chương, 95 Điều, sha256: `22828f486b96a3399b8e17f93fa9287e2d4eb92968f272dd411680efa06325ff`). Cập nhật status thành `ingested`, ghi nhận hiệu lực 01/07/2026 (ngoại lệ một số điều hiệu lực sớm từ 01/01/2026: K2, K3 Điều 43, Điều 71, K3, K4, K5 Điều 95) và bãi bỏ Luật Xây dựng 50/2014/QH13.
