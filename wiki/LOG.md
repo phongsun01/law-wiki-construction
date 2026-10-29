@@ -1,3 +1,16 @@
+## 2026-10-29 — Hoàn tất nghiệm thu nội dung Chặng 1a đối chiếu toàn văn raw
+
+- **Khắc phục triệt để các điểm sai lệch so với toàn văn raw:**
+  - Sửa lỗi nghiêm trọng tại Điều 76 Khoản 3 NĐ 217: ghi nhận đúng nguyên văn việc triển khai các bước tiếp theo (bao gồm cả việc điều chỉnh thiết kế sau khi phê duyệt dự án) thực hiện theo quy định **của Nghị định này**, không bị đảo nghĩa thành "theo quy định trước đây".
+  - Sửa mục 2.7 NĐ 217: phân tách đúng 5 khoản của Điều 57 (Khoản 1 điểm a–d công trình theo tuyến/không theo tuyến; Khoản 2 tín ngưỡng tôn giáo; Khoản 3 tượng đài, tranh hoành tráng; Khoản 4 quảng cáo; Khoản 5 ngoại giao và quốc tế); bổ sung đầy đủ thành phần PCCC, BVMT và ý kiến cơ quan văn hóa cấp tỉnh.
+  - Sửa mục 2.4 NĐ 217: trình bày nội dung thẩm định BCNCKT theo đúng 5 khoản của Điều 38 NĐ 217 (Khoản 1 quy hoạch, Khoản 2 kết nối hạ tầng ngoài, Khoản 3 quy chuẩn/tiêu chuẩn, Khoản 4 an toàn và PCCC, Khoản 5 tổng mức đầu tư ĐTC/PPP theo quy định chi phí).
+  - Chuẩn hóa Phụ lục III NĐ 217: phân loại đúng 8 nhóm công năng phục vụ I–VIII theo nguyên văn raw (trong đó mục VIII gồm Khu đô thị và Khu nhà ở).
+  - Chuẩn hóa Điều 53 Khoản 1 NĐ 217: giữ nguyên văn cụm từ "trừ các công trình quy định tại khoản 2 Điều này".
+  - Bỏ kết luận suy diễn ngoài raw tại phần ghi chú Điều 27 Luật 135.
+- **Nghiệm thu toàn bộ 8 câu hỏi kiểm thử Chặng 1a (`tests/cau-hoi-kiem-thu.md`):**
+  - Chấm **Đạt** cho tất cả 8/8 câu (Q01, Q02, Q03, Q04, Q05, Q06, Q06a, Q06b) sau khi viết lại đáp án chi tiết, trích dẫn chuẩn xác từng Điều, Khoản, Điểm khớp 100% toàn văn raw, không suy diễn hoặc đưa kết luận tuyệt đối ngoài văn bản.
+- **Kiểm tra chất lượng:** `scripts/lint.py` 0 lỗi, 2 cảnh báo source_url (null do chưa có link công báo chính thức).
+
 ## 2026-10-29 — Rà soát nội dung Chặng 1a so với toàn văn raw
 
 - **Rà soát và sửa đổi theo toàn văn raw (không diễn giải, suy diễn):**
