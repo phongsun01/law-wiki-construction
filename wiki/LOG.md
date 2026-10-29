@@ -1,3 +1,9 @@
+## 2026-10-29 — Chuẩn hóa lần 3: Điều 26 Luật 135, Phụ lục III NĐ 217 và Q03
+
+- `wiki/documents/luat-135-2025.md`: Sửa ghi chú tại mục 2.3 bám sát nguyên văn Điều 26 Luật 135 (Khoản 3 thẩm định ĐTC gồm tính khả thi, hiệu quả, tổng mức đầu tư, thiết kế, công nghệ, thủ tục môi trường, hình thức QLDA; Khoản 7 thẩm định công nghệ theo pháp luật về chuyển giao công nghệ; bỏ các cụm từ không có trong raw như "sự cần thiết", "phương án vốn").
+- `wiki/documents/nd-217-2026.md`: Bổ sung đầy đủ 5 mục thành phần của Phụ lục III Mục VIII (Dự án có công năng phục vụ hỗn hợp: 1. Khu đô thị; 2. Khu nhà ở; 3. Hạ tầng kỹ thuật khu chức năng; 4. Dự án gồm nhiều lĩnh vực Mục I–V; 5. Công năng hỗn hợp khác).
+- `tests/cau-hoi-kiem-thu.md`: Cập nhật đáp án Q03 trích dẫn và liên kết rõ ràng Khoản 1 Điều 9 Luật 135 (chủ đầu tư dự án ĐTC và nguyên tắc đáp ứng điều kiện của Chính phủ) với Khoản 1, 2, 3 Điều 6 NĐ 217.
+
 ## 2026-10-29 — Hoàn tất nghiệm thu nội dung Chặng 1a đối chiếu toàn văn raw
 
 - **Khắc phục triệt để các điểm sai lệch so với toàn văn raw:**
