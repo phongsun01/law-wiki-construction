@@ -15,10 +15,10 @@ Dòng nào của bảng này thay đổi trạng thái thì phải cập nhật 
 
 | Văn bản | Ban hành | Hiệu lực | Nhóm | Đợt | Trạng thái |
 |---|---|---|---|---|---|
-| [[documents/nd-210-2026|NĐ 210/2026/NĐ-CP]] — Hợp đồng xây dựng | 2026-06-15 | 2026-07-01 | III | 1b | pending-ingest |
-| [[documents/nd-206-2026|NĐ 206/2026/NĐ-CP]] — Quản lý chi phí đầu tư xây dựng | 2026-06-15 | 2026-07-01 | III | 1b | pending-ingest |
-| [[documents/tt-36-2026|TT 36/2026/TT-BXD]] — Nội dung, phương pháp xác định và quản lý chi phí đầu tư xây dựng | 2026-06-26 | 2026-07-01 | III | 1b | pending-ingest |
-| [[documents/tt-37-2026|TT 37/2026/TT-BXD]] — Phương pháp xác định định mức dự toán và các chỉ tiêu kinh tế kỹ thuật | 2026-06-26 | 2026-07-01 | III | 1b | pending-ingest |
+| [[documents/nd-210-2026|NĐ 210/2026/NĐ-CP]] — Hợp đồng xây dựng | 2026-06-15 | 2026-07-01 | III | 1b | ingested |
+| [[documents/nd-206-2026|NĐ 206/2026/NĐ-CP]] — Quản lý chi phí đầu tư xây dựng | 2026-06-15 | 2026-07-01 | III | 1b | ingested |
+| [[documents/tt-36-2026|TT 36/2026/TT-BXD]] — Nội dung, phương pháp xác định và quản lý chi phí đầu tư xây dựng | 2026-06-26 | 2026-07-01 | III | 1b | ingested |
+| [[documents/tt-37-2026|TT 37/2026/TT-BXD]] — Phương pháp xác định định mức dự toán và các chỉ tiêu kinh tế kỹ thuật | 2026-06-26 | 2026-07-01 | III | 1b | ingested |
 
 ## Đợt 2 — Chất lượng, năng lực, CSDL, cấp công trình
 

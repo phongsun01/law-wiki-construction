@@ -1,3 +1,20 @@
+## 2026-10-29 — Ingest Chặng 1b (NĐ 210/2026, NĐ 206/2026, TT 36/2026, TT 37/2026)
+
+- Đổi tên chuẩn hóa 4 file trong `raw/`:
+  - `raw/nd-210-2026.md` (961 dòng, sha256: `05b975979e1bce1835135099a34ec8449cfa810454b807794d33433a16c00e92`)
+  - `raw/nd-206-2026.md` (702 dòng, sha256: `0606d026bc33dc322c21316a0516651da1eb80303ea84ea3b5a306498161185a`)
+  - `raw/tt-36-2026.md` (2.928 dòng, sha256: `aaf0d9e005e2305b2c8769713c67bdd6f4694fdd079ef3be04a6ea310076b58f`)
+  - `raw/tt-37-2026.md` (3.330 dòng, sha256: `20f6667047070fd94f33616a7486be49ae8ceb1b363dbe5e22de4bdf9e240e79`)
+- Cập nhật trang wiki cho 4 văn bản từ `pending-ingest` sang `ingested` bám sát toàn văn raw:
+  - `wiki/documents/nd-210-2026.md`: 3 Chương, 34 Điều; phân loại theo giá hợp đồng (Điều 6, 11); nguyên tắc điều chỉnh giá và điều chỉnh khối lượng trọn gói (Điều 23, 24); quy định tạm ứng ĐTC/PPP (Điều 12); căn cứ và nguyên tắc giao kết (Điều 4, 5); xử lý chuyển tiếp (Điều 33).
+  - `wiki/documents/nd-206-2026.md`: 8 Chương, 38 Điều; sơ bộ TMĐT (Điều 4), tổng mức đầu tư 7 khoản mục (Điều 5, 6), dự toán xây dựng công trình 6 khoản mục (Điều 12); hệ thống định mức và thẩm quyền ban hành Bộ XD / Bộ chuyên ngành / UBND tỉnh (Điều 19, 20); chuyển tiếp (Điều 36).
+  - `wiki/documents/tt-36-2026.md`: 16 Điều, 8 Phụ lục phương pháp xác định chi phí đầu tư xây dựng.
+  - `wiki/documents/tt-37-2026.md`: 4 Điều, 6 Phụ lục phương pháp xác định định mức và chỉ tiêu kinh tế kỹ thuật (xác nhận thông tư là hướng dẫn phương pháp, không có danh mục định mức cụ thể).
+- Áp dụng bộ câu hỏi Chặng 1b do người dùng đề xuất tại `raw/cau-hoi-1b-de-xuat.md` (thay thế 6 dòng Q07–Q12 thành 7 câu Q07, Q08, Q09, Q10, Q11a, Q11b, Q12).
+- Chấm **Đạt** 7/7 câu hỏi kiểm thử Chặng 1b với trích dẫn chuẩn xác từng Điều, Khoản, Điểm và xử lý đúng các yêu cầu thận trọng (không tự trả lời nội dung đấu thầu, trả lời 'chưa thấy trong nguồn' khi raw không có danh mục định mức cụ thể).
+- Cập nhật `wiki/INDEX.md` chuyển trạng thái cả 4 văn bản sang `ingested`.
+- Kiểm tra qua `scripts/lint.py`: 0 errors.
+
 ## 2026-10-29 — Chuẩn hóa lần 3: Điều 26 Luật 135, Phụ lục III NĐ 217 và Q03
 
 - `wiki/documents/luat-135-2025.md`: Sửa ghi chú tại mục 2.3 bám sát nguyên văn Điều 26 Luật 135 (Khoản 3 thẩm định ĐTC gồm tính khả thi, hiệu quả, tổng mức đầu tư, thiết kế, công nghệ, thủ tục môi trường, hình thức QLDA; Khoản 7 thẩm định công nghệ theo pháp luật về chuyển giao công nghệ; bỏ các cụm từ không có trong raw như "sự cần thiết", "phương án vốn").
