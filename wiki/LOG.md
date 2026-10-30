@@ -1,3 +1,15 @@
+## 2026-10-30 — Nghiệm thu hoàn thành Chặng 1b (Q10, Q11a, Q11b đạt Đạt)
+
+- **Sửa triệt để Q10 và mục 2.4 NĐ 210:**
+  - Bỏ hoàn toàn câu suy diễn 'không vượt giá trúng thầu' và 'Khoản 1d Điều 4' (Điều 4 K1 raw chỉ có điểm a–c).
+  - Trích đúng Khoản 1 Điều 4 (nguyên tắc giao kết liên danh điểm a, nhiều nhà thầu chính điểm b, thầu phụ điểm c); Khoản 1 Điều 5 (căn cứ giao kết gồm kết quả LCNT và thương thảo); Khoản 1 Điều 11 (giá hợp đồng căn cứ giá trúng thầu hoặc kết quả đàm phán, thương thảo).
+  - Xác nhận rõ: trong raw NĐ 210 không có quy định về nội dung nào được hoặc không được thay đổi trong thương thảo hợp đồng sau khi lựa chọn nhà thầu (trả lời 'chưa thấy trong nguồn NĐ 210' và chuyển sang wiki đấu thầu theo Luật 22/2023 và NĐ 214/2025).
+- **Chuẩn hóa Q11a và Q11b:**
+  - Q11a: Đính chính 'BCNCTKT' thành 'BCNCKT' ở mục Tổng mức đầu tư.
+  - Q11b: Bổ sung cấu trúc Điều 1 TT 37 gồm 6 Phụ lục (Phụ lục I về định mức dự toán, Phụ lục II về giá vật liệu, Phụ lục III về giá nhân công, Phụ lục IV về giá ca máy, Phụ lục V về chỉ số giá, Phụ lục VI về suất vốn đầu tư) và Điều 2 về xử lý chuyển tiếp giá nhân công; chuẩn hóa thẩm quyền UBND tỉnh theo raw Điều 20 K1c NĐ 206 chép đúng 'chưa được Bộ Xây dựng, Bộ quản lý công trình xây dựng chuyên ngành ban hành' (bỏ từ 'đặc thù địa phương').
+- **Nghiệm thu toàn bộ 7 câu Chặng 1b (Q07–Q12):** Tất cả 7 câu Chặng 1b chuyển sang trạng thái **Đạt**, xóa mọi dòng ghi chú tạm.
+- **Hoàn thành Chặng 1b:** 15/15 câu hỏi kiểm thử đã duyệt đạt chuẩn.
+
 ## 2026-10-30 — Nghiệm thu đạt Q07, Q08, Q09, Q12 và chuẩn hóa trích dẫn theo raw NĐ 210/2026 & Luật 135
 
 - **Hiệu chỉnh chuẩn xác Khoản 3c Điều 84 Luật 135 tại Q07 và mục 2.2 NĐ 210:** Bỏ câu suy diễn 'nếu vượt phải được người có thẩm quyền phê duyệt', chép đúng nguyên văn thẩm quyền của chủ đầu tư: khi sửa đổi hợp đồng làm thay đổi thời gian nhưng không vượt thời gian thực hiện dự án được duyệt, hoặc vượt giá gói thầu (gồm dự phòng) nhưng không làm vượt tổng mức đầu tư được duyệt thì chủ đầu tư được quyền xem xét, quyết định sửa đổi hợp đồng.
