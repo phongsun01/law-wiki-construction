@@ -1,3 +1,10 @@
+## 2026-10-30 — Nghiệm thu đạt Q07, Q08, Q09, Q12 và chuẩn hóa trích dẫn theo raw NĐ 210/2026 & Luật 135
+
+- **Hiệu chỉnh chuẩn xác Khoản 3c Điều 84 Luật 135 tại Q07 và mục 2.2 NĐ 210:** Bỏ câu suy diễn 'nếu vượt phải được người có thẩm quyền phê duyệt', chép đúng nguyên văn thẩm quyền của chủ đầu tư: khi sửa đổi hợp đồng làm thay đổi thời gian nhưng không vượt thời gian thực hiện dự án được duyệt, hoặc vượt giá gói thầu (gồm dự phòng) nhưng không làm vượt tổng mức đầu tư được duyệt thì chủ đầu tư được quyền xem xét, quyết định sửa đổi hợp đồng.
+- **Bổ sung câu thứ hai của Khoản 7 Điều 95 Luật 135 tại Q12 và mục 2.5 NĐ 210:** Kể từ ngày Luật có hiệu lực thi hành, đối với các hợp đồng đang trong quá trình đàm phán, thương thảo, hoàn thiện, chưa giao kết hợp đồng thì các bên được thỏa thuận, áp dụng các quy định của Luật 135 theo nguyên tắc bảo đảm phù hợp với quá trình lựa chọn nhà thầu và không trái pháp luật; đồng thời làm rõ các điểm a, b Khoản 1 Điều 33 NĐ 210 là ở giai đoạn trước đóng thầu.
+- **Rà soát trích dẫn Điều 24 NĐ 210:** Khẳng định toàn bộ wiki và bộ test không có lỗi dẫn 'Khoản 3 Điều 24' (raw chỉ có K1 và K2 điểm a–g).
+- **Chấm Đạt cho 4 câu kiểm thử NĐ 210:** Chuyển Q07, Q08, Q09, Q12 từ 'Chưa đạt' sang **'Đạt'** trên `tests/cau-hoi-kiem-thu.md`, xóa các ghi chú tạm. Giữ Q10, Q11a, Q11b ở trạng thái 'Chưa đạt' để tiếp tục kiểm chứng cùng NĐ 206, TT 36, TT 37.
+
 ## 2026-10-30 — Hiệu chỉnh Ingest NĐ 210/2026 và chuyển Q07–Q12 về Chưa đạt để kiểm chứng
 
 - **Sửa Điều 12 NĐ 210/2026 (Tạm ứng hợp đồng) theo phản ánh đối chiếu raw:**

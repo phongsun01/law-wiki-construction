@@ -2,7 +2,7 @@
 
 Wiki hệ thống hóa pháp luật xây dựng và quản lý dự án đầu tư xây dựng, có trích dẫn và kiểm chứng được. Phần đấu thầu đã có wiki riêng: https://github.com/phongsun01/law-wiki-bidding-v2.
 
-**Trạng thái (Đang kiểm thử Chặng 1b, 2026-10-30):** Đã ingest 4 văn bản Chặng 1b (NĐ 210/2026, NĐ 206/2026, TT 36/2026, TT 37/2026) vào `wiki/documents/`. Đã sửa toàn bộ các sai lệch Điều 12 NĐ 210 (mức trần 30%, mức tối thiểu tư vấn 15%/20%, thi công 10%/15%/20%, thu hồi đạt 80%), chuẩn hóa phân loại 9 loại giá (Khoản 2 Điều 6), ngưỡng điều chỉnh đơn giá > 20% (Điều 24), chuyển tiếp Điều 33. Chuyển trạng thái 7 câu hỏi Chặng 1b (Q07–Q12) về `Chưa đạt` để đối chiếu kiểm chứng chi tiết từng Điều/Khoản với toàn văn raw.
+**Trạng thái (Đang kiểm thử Chặng 1b, 2026-10-30):** Đã hoàn tất đối chiếu và nghiệm thu đạt 4/7 câu hỏi kiểm thử NĐ 210/2026 (Q07, Q08, Q09, Q12) khớp chính xác toàn văn raw; đang tiếp tục đối chiếu kiểm chứng Q10 (thương thảo hợp đồng), Q11a (chi phí TMĐT/dự toán NĐ 206, TT 36), Q11b (phương pháp định mức TT 37, NĐ 206) cùng nội dung chi tiết của NĐ 206, TT 36 và TT 37.
 
 ## Cấu trúc
 
