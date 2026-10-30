@@ -1,3 +1,19 @@
+## 2026-10-30 — Hiệu chỉnh Ingest NĐ 210/2026 và chuyển Q07–Q12 về Chưa đạt để kiểm chứng
+
+- **Sửa Điều 12 NĐ 210/2026 (Tạm ứng hợp đồng) theo phản ánh đối chiếu raw:**
+  - Sửa mức tạm ứng tối đa: không vượt quá **30%** giá hợp đồng tại thời điểm giao kết (bao gồm cả dự phòng); mức cao hơn phải được người quyết định đầu tư cho phép (Khoản 3g Điều 12).
+  - Sửa mức tạm ứng tối thiểu tư vấn: **15%** (hợp đồng > 10 tỷ), **20%** (hợp đồng đến 10 tỷ) (Khoản 3h).
+  - Sửa mức tạm ứng tối thiểu thi công: **10%** (hợp đồng > 50 tỷ), **15%** (hợp đồng 10–50 tỷ), **20%** (hợp đồng < 10 tỷ) (Khoản 3i).
+  - Sửa quy định thu hồi: thu hồi dần qua các lần thanh toán, thu hồi hết khi thanh toán cộng dồn đạt **80%** giá hợp đồng (bỏ cụm từ 'bắt đầu từ lần thanh toán đầu tiên') (Khoản 3m).
+  - Bổ sung các điểm load-bearing khác của Điều 12: Khoản 2 áp dụng chung theo thỏa thuận; Khoản 3 bắt buộc cho ĐTC/PPP; điều kiện tạm ứng thi công phải có kế hoạch GPMB/bàn giao mặt bằng (Điểm a); sử dụng đúng mục đích (Điểm đ); tạm ứng cấu kiện/vật liệu dự trữ không tính vào mức trần 30% (Điểm e); phần tạm ứng vượt tối thiểu không được điều chỉnh giá trượt giá (Điểm l).
+- **Sửa phân loại giá và điều chỉnh khối lượng/giá NĐ 210:**
+  - Điều 6 Khoản 2 có đủ 9 loại giá (điểm a–i) và phạm vi áp dụng tại Khoản 3 Điều 11.
+  - Hợp đồng trọn gói điều chỉnh khối lượng dẫn chuẩn **Điểm a Khoản 2 Điều 23** (giới hạn ĐTC/PPP).
+  - Bổ sung ngưỡng điều chỉnh đơn giá công việc khi khối lượng thay đổi > 20%, đồng thời tác động > 0,25% giá hợp đồng và 1% đơn giá (Điểm b Khoản 2 Điều 24).
+  - Sửa điều khoản chuyển tiếp Điều 33: phân tách ĐTC/PPP (Khoản 1 điểm a, b, c - đã đóng thầu, d - đã giao kết) và dự án khác (Khoản 2).
+- **Bộ câu hỏi kiểm thử:** Chuyển trạng thái 7 câu Chặng 1b (Q07, Q08, Q09, Q10, Q11a, Q11b, Q12) về `Chưa đạt` trên `tests/cau-hoi-kiem-thu.md`, cập nhật nội dung trích dẫn chi tiết theo raw chuẩn bị cho đợt kiểm chứng.
+- **README.md:** Cập nhật trạng thái 'Đang kiểm thử Chặng 1b'.
+
 ## 2026-10-29 — Ingest Chặng 1b (NĐ 210/2026, NĐ 206/2026, TT 36/2026, TT 37/2026)
 
 - Đổi tên chuẩn hóa 4 file trong `raw/`:
