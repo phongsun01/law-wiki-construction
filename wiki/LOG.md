@@ -1,3 +1,12 @@
+## 2026-10-30 — Sửa lỗi chính tả NĐ 210 và duyệt áp dụng bộ câu hỏi Chặng 2 (26 câu)
+
+- **Sửa chính tả trang NĐ 210:** Sửa 'BCNCTKT' thành 'BCNCKT' ở mục 2.4 (căn cứ giao kết hợp đồng chìa khóa trao tay).
+- **Áp dụng bộ câu hỏi Chặng 2:**
+  - Thay thế 4 dòng nháp Q13–Q16 bằng 7 câu hỏi đã được người dùng duyệt tại `raw/cau-hoi-2-de-xuat.md` (Q13, Q14, Q14a, Q15, Q16, Q16a, Q16b).
+  - Thống nhất **giữ liên kết đối chiếu chéo với NĐ 217/2026** (Điều 53 K1 về cấp phép, Điều 32 K2 về thẩm quyền thẩm định) tại câu hỏi Q15 bên cạnh TT 34/2026 và Luật 135/2025.
+  - Tổng số câu hỏi kiểm thử toàn wiki tăng từ 23 lên 26 câu.
+  - Cập nhật phần ghi chú và quy tắc vận hành trong `tests/cau-hoi-kiem-thu.md`.
+
 ## 2026-10-30 — Nghiệm thu hoàn thành Chặng 1b (Q10, Q11a, Q11b đạt Đạt)
 
 - **Sửa triệt để Q10 và mục 2.4 NĐ 210:**
