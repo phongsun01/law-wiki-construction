@@ -1,3 +1,16 @@
+## 2026-10-30 — Ingest toàn văn Chặng 2 (NĐ 207, TT 32, NĐ 212, TT 39, TT 34)
+
+- Đổi tên chuẩn hóa và tính mã băm SHA256 cho 5 file toàn văn raw Chặng 2:
+  - `raw/nd-207-2026.md` (2.461 dòng, 5 Chương, 54 Điều, sha256: `9c35844765c95ad4c9faad38108250bf96b3d6c48efb10f1a621b7af531611f9`)
+  - `raw/tt-32-2026.md` (189 dòng, 8 Điều, sha256: `5ec9a6e35d743d4040e56eb4748ed4fb73aded83e09f3322a3ae21c66b42b605`)
+  - `raw/nd-212-2026.md` (1.793 dòng, 5 Chương, 58 Điều, sha256: `35d1cdb42becf87dfcbf1ce3cfb2cd9dd74370b10e009497c9909de0d9a8cc07`)
+  - `raw/tt-39-2026.md` (964 dòng, 4 Chương, 16 Điều, sha256: `7687fc1d3ba04629ea70a2e5f139ba385e14c1536557d2e8a8c840ee6ec5add6`)
+  - `raw/tt-34-2026.md` (1.398 dòng, 5 Điều, 3 Phụ lục, sha256: `849eb5608d5a2582b0b5e5511fc177b125a621127bc8607a05c59d74c825a9c1`)
+- Cập nhật trang tài liệu chi tiết bám sát 100% raw tại `wiki/documents/` cho cả 5 văn bản, chuyển `status: ingested`.
+- Cập nhật `wiki/INDEX.md` chuyển trạng thái cả 5 văn bản Đợt 2 sang `ingested`.
+- Cập nhật đáp án chi tiết trích dẫn Điều/Khoản cho 7 câu hỏi Chặng 2 (Q13, Q14, Q14a, Q15, Q16, Q16a, Q16b) trong `tests/cau-hoi-kiem-thu.md`, giữ trạng thái `Chưa đạt` để phục vụ đối chiếu kiểm chứng độc lập.
+- Chạy kiểm tra `scripts/lint.py`: 0 errors.
+
 ## 2026-10-30 — Sửa lỗi chính tả NĐ 210 và duyệt áp dụng bộ câu hỏi Chặng 2 (26 câu)
 
 - **Sửa chính tả trang NĐ 210:** Sửa 'BCNCTKT' thành 'BCNCKT' ở mục 2.4 (căn cứ giao kết hợp đồng chìa khóa trao tay).

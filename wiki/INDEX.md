@@ -24,11 +24,11 @@ Dòng nào của bảng này thay đổi trạng thái thì phải cập nhật 
 
 | Văn bản | Ban hành | Hiệu lực | Nhóm | Đợt | Trạng thái |
 |---|---|---|---|---|---|
-| [[documents/nd-207-2026|NĐ 207/2026/NĐ-CP]] — Chất lượng, thi công xây dựng, bảo trì công trình | 2026-06-15 | 2026-07-01 | I | 2 | pending-ingest |
-| [[documents/tt-32-2026|TT 32/2026/TT-BXD]] — Chi tiết một số điều của NĐ 207/2026 | 2026-06-22 | 2026-07-01 | I | 2 | pending-ingest |
-| [[documents/nd-212-2026|NĐ 212/2026/NĐ-CP]] — Năng lực hoạt động xây dựng, CSDL quốc gia | 2026-06-17 | 2026-07-01 | I | 2 | pending-ingest |
-| [[documents/tt-39-2026|TT 39/2026/TT-BXD]] — CSDL quốc gia về hoạt động xây dựng | 2026-06-26 | 2026-07-01 | I | 2 | pending-ingest |
-| [[documents/tt-34-2026|TT 34/2026/TT-BXD]] — Cấp công trình xây dựng | 2026-06-25 | 2026-07-01 | I | 2 | pending-ingest |
+| [[documents/nd-207-2026|NĐ 207/2026/NĐ-CP]] — Chất lượng, thi công xây dựng, bảo trì công trình | 2026-06-15 | 2026-07-01 | I | 2 | ingested |
+| [[documents/tt-32-2026|TT 32/2026/TT-BXD]] — Chi tiết một số điều của NĐ 207/2026 | 2026-06-22 | 2026-07-01 | I | 2 | ingested |
+| [[documents/nd-212-2026|NĐ 212/2026/NĐ-CP]] — Năng lực hoạt động xây dựng, CSDL quốc gia | 2026-06-17 | 2026-07-01 | I | 2 | ingested |
+| [[documents/tt-39-2026|TT 39/2026/TT-BXD]] — CSDL quốc gia về hoạt động xây dựng | 2026-06-26 | 2026-07-01 | I | 2 | ingested |
+| [[documents/tt-34-2026|TT 34/2026/TT-BXD]] — Cấp công trình xây dựng | 2026-06-25 | 2026-07-01 | I | 2 | ingested |
 
 ## Đợt 3 — Quyết toán và bảo hiểm
 
