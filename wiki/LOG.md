@@ -1,3 +1,18 @@
+## 2026-11-02 — Ingest toàn văn Chặng 3 và cập nhật bộ câu hỏi (28 câu)
+
+- **Cập nhật bộ câu hỏi kiểm thử Chặng 3:**
+  - Thay thế 4 dòng Q17–Q20 bằng 6 câu hỏi theo đề xuất duyệt tại `cau-hoi-3-de-xuat-v2.md` (Q17, Q17a, Q18, Q19, Q19a, Q20).
+  - Bổ sung đáp án chi tiết bám sát 100% raw và trích dẫn chính xác Điều/Khoản, tạm để trạng thái `Chưa đạt` phục vụ đối chiếu kiểm chứng.
+  - Tổng số câu hỏi kiểm thử toàn repo tăng từ 26 lên **28 câu**.
+- **Ingest toàn văn 5 văn bản Chặng 3 tại `wiki/documents/`:**
+  - `nd-193-2026.md`: Ingest toàn văn từ `raw/nd-193-2026.md` (698 dòng, sha256: `ee986a96d44b0480b5d5f3b8773c532a83bc4d58712996b1082cd084fb0129d7`). Làm rõ phạm vi điều chỉnh Điều 1, vốn được quyết toán Điều 4, thời hạn Điều 21, chuyển tiếp Điều 29, phạm vi bãi bỏ NĐ 254 (Khoản 5 Điều 31: bãi bỏ Điều 30–47, Mẫu 03.c/QT, thay thế cụm từ, các phần còn lại của NĐ 254 vẫn giữ hiệu lực).
+  - `nd-254-2025.md`: Ingest toàn văn từ `raw/nd-254-2025.md` (1.500 dòng, sha256: `2682f62fdf4e9f0e284eda3b0f44520b8ddcb7419889d5dc41ee9cf9a61c1395`). Làm rõ tạm ứng vốn Điều 9, thanh toán KLHT Điều 10, quyết toán niên độ Điều 25–29 (áp dụng từ niên độ 2025 theo Khoản 2 Điều 54), ghi rõ phần bị bãi bỏ bởi NĐ 193 từ 01/07/2026.
+  - `tt-73-2026.md`: Thêm mới và ingest toàn văn từ `raw/tt-73-2026.md` (903 dòng, sha256: `5f95c26c5c005ea0ab8dd1d04fffd4f3e4c69bddc4212dcc38bbaf099fdd81d5`). Hệ thống 12 mẫu biểu quyết toán vốn đầu tư dự án (Mẫu 01–12/QTDA) và quy định chuyển tiếp Điều 5 Khoản 5.
+  - `tt-63-2025.md`: Ingest toàn văn từ `raw/tt-63-2025.md` (377 dòng, sha256: `fbe9c5919f3236a02b9a531f5be02bc7c9a98d055a8cff58c0744a120399f645`). Sửa đổi TT 96/2021 về mẫu quyết toán niên độ và chuẩn hóa cơ quan thanh toán.
+  - `nd-220-2026.md`: Ingest toàn văn từ `raw/nd-220-2026.md` (700 dòng, sha256: `35420ccd643a35117cfee4063df884a6ee6d684746d18aa8c0affae6132583ad`). Sửa đổi bổ sung NĐ 67/2023: Điều 32 (đối tượng), Điều 33 (số tiền bảo hiểm tối thiểu), Điều 34 (loại trừ mục rữa, han gỉ), Điều 37 (phí và khấu trừ), Điều 38 (trách nhiệm mua bảo hiểm), Điều 45 (kéo dài thời gian), Điều 58, thay thế cụm từ "bên thứ ba".
+- **Cập nhật `wiki/INDEX.md`:** Chuyển trạng thái 5 văn bản Chặng 3 sang `ingested`, bổ sung `tt-73-2026` vào bảng mục lục.
+- **Kiểm tra chất lượng:** `scripts/lint.py` chạy qua với **0 lỗi**.
+
 ## 2026-11-02 — Hoàn thành nghiệm thu Chặng 2 (Q13–Q16b Đạt 7/7 câu theo đối chiếu raw)
 
 - **Hiệu chỉnh toàn diện Q15 và trang TT 34:**

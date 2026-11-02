@@ -34,10 +34,11 @@ Dòng nào của bảng này thay đổi trạng thái thì phải cập nhật 
 
 | Văn bản | Ban hành | Hiệu lực | Nhóm | Đợt | Trạng thái |
 |---|---|---|---|---|---|
-| [[documents/nd-193-2026|NĐ 193/2026/NĐ-CP]] — Quyết toán vốn đầu tư dự án | 2026-06-01 | 2026-07-01 | III | 3 | pending-ingest |
-| [[documents/nd-254-2025|NĐ 254/2025/NĐ-CP]] — Quản lý, thanh toán, quyết toán vốn đầu tư công | 2025-09-26 | 2025-09-26 | III | 3 | pending-ingest |
-| [[documents/tt-63-2025|TT 63/2025/TT-BTC]] — Mẫu biểu quyết toán | 2025-06-30 | 2025-07-01 | III | 3 | pending-ingest |
-| [[documents/nd-220-2026|NĐ 220/2026/NĐ-CP]] — Bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng | 2026-06-22 | 2026-07-01 | III | 3 | pending-ingest |
+| [[documents/nd-193-2026|NĐ 193/2026/NĐ-CP]] — Quyết toán vốn đầu tư dự án | 2026-06-01 | 2026-07-01 | III | 3 | ingested |
+| [[documents/nd-254-2025|NĐ 254/2025/NĐ-CP]] — Quản lý, thanh toán, quyết toán vốn đầu tư công | 2025-09-26 | 2025-09-26 | III | 3 | ingested |
+| [[documents/tt-73-2026|TT 73/2026/TT-BTC]] — Hệ thống mẫu biểu quyết toán vốn đầu tư dự án | 2026-06-25 | 2026-07-01 | III | 3 | ingested |
+| [[documents/tt-63-2025|TT 63/2025/TT-BTC]] — Mẫu biểu quyết toán | 2025-06-30 | 2025-07-01 | III | 3 | ingested |
+| [[documents/nd-220-2026|NĐ 220/2026/NĐ-CP]] — Bảo hiểm bắt buộc trong hoạt động đầu tư xây dựng | 2026-06-22 | 2026-07-01 | III | 3 | ingested |
 
 ## Tham chiếu — văn bản gốc của văn bản sửa đổi
 

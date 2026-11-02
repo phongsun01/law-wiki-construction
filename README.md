@@ -2,7 +2,7 @@
 
 Wiki hệ thống hóa pháp luật xây dựng và quản lý dự án đầu tư xây dựng, có trích dẫn và kiểm chứng được. Phần đấu thầu đã có wiki riêng: https://github.com/phongsun01/law-wiki-bidding-v2.
 
-**Trạng thái (Đang kiểm thử Chặng 2, 2026-10-30):** Đã hoàn tất Ingest Đợt 1 (Luật 135, NĐ 217, NĐ 210, NĐ 206, TT 36, TT 37 đạt 15/15 câu nghiệm thu) và đã ingest toàn văn 5 văn bản Chặng 2 (NĐ 207/2026, TT 32/2026, NĐ 212/2026, TT 39/2026, TT 34/2026). Đã nạp đáp án chi tiết bám sát raw cho 7 câu hỏi Chặng 2 (Q13, Q14, Q14a, Q15, Q16, Q16a, Q16b) ở trạng thái `Chưa đạt` để chuẩn bị đối chiếu kiểm chứng.
+**Trạng thái (Đang kiểm thử Chặng 3, 2026-11-02):** Đã hoàn tất Ingest Đợt 1 (15/15 câu) và Đợt 2 (7/7 câu). Đã ingest toàn văn 5 văn bản Chặng 3 (NĐ 193/2026, NĐ 254/2025, TT 73/2026, TT 63/2025, NĐ 220/2026). Đã nạp đáp án chi tiết bám sát raw cho 6 câu hỏi Chặng 3 (Q17, Q17a, Q18, Q19, Q19a, Q20) ở trạng thái `Chưa đạt` để sẵn sàng đối chiếu kiểm chứng độc lập.
 
 ## Cấu trúc
 
