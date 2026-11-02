@@ -1,3 +1,20 @@
+## 2026-11-02 — Hoàn thành nghiệm thu Chặng 2 (Q13–Q16b Đạt 7/7 câu theo đối chiếu raw)
+
+- **Hiệu chỉnh toàn diện Q15 và trang TT 34:**
+  - Viết lại nội dung quản lý áp dụng cấp công trình theo danh mục nguyên văn điểm a–p Khoản 1 Điều 3 TT 34/2026.
+  - Sửa các điểm đối chiếu chéo bám sát raw: Thẩm định BCNCKT của Bộ chuyên ngành chỉ đối với cấp đặc biệt (NĐ 217 Điều 32 K2, không có cấp I); Thẩm quyền cấp GPXD là UBND cấp xã (cấp III, IV, nhà ở riêng lẻ), BQL khu (trong khu), Sở XD cấp phần còn lại (NĐ 217 Điều 53 K1, không có cấp huyện và không phân cấp theo cấp đặc biệt/I/II); Kiểm tra công tác nghiệm thu của Bộ chuyên ngành chỉ đối với cấp đặc biệt, liên tỉnh, do Thủ tướng giao (NĐ 207 Điều 26 K1, không có cấp I).
+  - Loại bỏ hoàn toàn các suy diễn không có trong Điều 3 TT 34 (hạng năng lực tổ chức, giải quyết sự cố).
+- **Hiệu chỉnh Q13 và trang NĐ 207 (Nghiệm thu):**
+  - Cập nhật Điều 25 K1: Kiểm tra nghiệm thu gồm 2 nhóm (quy mô lớn/kỹ thuật phức tạp theo Phụ lục IX, và ảnh hưởng lớn đến an toàn/lợi ích cộng đồng); không căn cứ vào nguồn vốn ĐTC hay PPP.
+  - Cập nhật Điều 22 K3: Thời hạn người giám sát thực hiện nghiệm thu công việc xây dựng không quá 24 giờ kể từ khi nhận đề nghị của nhà thầu.
+  - Cập nhật Điều 23 K3: Thành phần nghiệm thu giai đoạn gồm giám sát trưởng và các thành phần khác do CĐT và các nhà thầu tự thỏa thuận.
+  - Bổ sung nguyên tắc theo Điều 57–60 Luật 135/2025.
+- **Hiệu chỉnh Q14 (Bảo hành):** Nêu rõ điều kiện thời hạn bảo hành (24 tháng cấp đặc biệt/I, 12 tháng cấp còn lại) và mức tiền bảo hành (3% và 5%) chỉ áp dụng bắt buộc cho công trình dùng vốn ĐTC, vốn chi thường xuyên NSNN, vốn NSNN khác (NĐ 207 Điều 32 K5, K7); công trình vốn khác có thể tham khảo áp dụng.
+- **Hiệu chỉnh Q16 (Năng lực):** Điều chỉnh câu chữ theo đúng Điều 28 K1 NĐ 212: cá nhân phải có đủ điều kiện năng lực khi đảm nhận các chức danh hoặc hành nghề độc lập.
+- **Hiệu chỉnh Q16b (Chuyển tiếp):** Bổ sung ngoại lệ Điểm a Khoản 4 Điều 53 NĐ 207 (trừ trường hợp công trình đã được cơ quan chuyên môn về xây dựng thuộc UBND cấp tỉnh tổ chức kiểm tra).
+- Chuyển trạng thái 7 câu hỏi Chặng 2 (Q13–Q16b) sang **Đạt**, xóa bỏ toàn bộ ghi chú chờ.
+- Chạy kiểm tra scripts/lint.py: 0 errors.
+
 ## 2026-10-30 — Ingest toàn văn Chặng 2 (NĐ 207, TT 32, NĐ 212, TT 39, TT 34)
 
 - Đổi tên chuẩn hóa và tính mã băm SHA256 cho 5 file toàn văn raw Chặng 2:
