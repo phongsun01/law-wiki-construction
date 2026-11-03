@@ -1,3 +1,26 @@
+## 2026-11-03 — Hiệu chỉnh Chặng 3 theo kết quả đối chiếu raw (Q17a Đạt, sửa Q17, Q18, Q19, Q19a, Q20)
+
+- **Sửa Q17 (Dẫn đúng Điều NĐ 210/2026):** Sửa Điều 22, 23 thành Điều 30 (quyết toán hợp đồng xây dựng), nêu thêm Điều 28 (thanh toán), Điều 29 (hồ sơ thanh toán), Điều 31 (thanh lý). Bổ sung cảnh báo phân biệt rõ hai bản Mẫu số 01/QTDA trùng số hiệu (Mẫu 01/QTDA kèm NĐ 193 là quyết toán A-B, Mẫu 01/QTDA kèm TT 73 là Báo cáo tổng hợp quyết toán dự án).
+- **Chấm Đạt Q17a:** Nội dung phạm vi áp dụng (Điều 1, 2 NĐ 193) đã khớp raw 100%.
+- **Sửa Q18 (Hồ sơ, biểu mẫu và vị trí TT 63):**
+  - Bổ sung quy định hồ sơ quyết toán dự án quy hoạch/chuẩn bị đầu tư/dừng chưa có khối lượng (Khoản 2 Điều 7 NĐ 193);
+  - Ghi chuẩn xác tên Mẫu số 09/QTDA: "Báo cáo kết quả phê duyệt tổng quyết toán vốn đầu tư dự án quan trọng quốc gia";
+  - Bổ sung quy tắc tính mốc thời gian tại Khoản 1, 2, 3 Điều 21 NĐ 193;
+  - Làm rõ nội dung sửa đổi của TT 63/2025 đối với TT 96/2021 (thay mẫu 04/QTNĐ, 08/QTNĐ, 12/QTDA và thay cụm từ cơ quan thanh toán); bỏ nhận định suy diễn về bãi bỏ TT 63/TT 96.
+- **Sửa Q19 & Q19a (Khắc phục mâu thuẫn về Chương I và Chương V NĐ 254):**
+  - Ghi rõ phần còn lại của Chương I là sau khi loại trừ Khoản 3 Điều 1 bị bãi bỏ;
+  - Ghi rõ phần còn lại của Chương V là sau khi loại trừ Khoản 7 Điều 50, Khoản 2 Điều 52, các điểm e, g, h Khoản 1, điểm a, c Khoản 2, Khoản 4 Điều 53 bị bãi bỏ;
+  - Ghi rõ cụm từ bị thay thế tại Điều 9 K3d và Điều 10 K1b theo Điều 31 K4 NĐ 193;
+  - Ghi đúng tên Mục: Điều 9 thuộc Mục 1 Chương II (nguồn NSNN nói chung), Điều 19 thuộc Mục 3 Chương II (dự án đầu tư công tại nước ngoài sử dụng vốn NSNN); bổ sung Chương VI (Điều 54–56).
+- **Sửa Q20 & trang `nd-220-2026.md` (Bảo hiểm):**
+  - Bổ sung nhóm thứ 3 tại Điều 1 (sửa Điều 32): "công trình quy mô lớn, kỹ thuật phức tạp";
+  - Bổ sung chi tiết Điều 2 (sửa Điều 33): thời hạn thông báo điều chỉnh 05 ngày làm việc;
+  - Mô tả chính xác Điều 4 (sửa Điều 37): công trình dưới 1.000 tỷ chia theo tỷ lệ lắp đặt thiết bị dưới 50% hay từ 50% trở lên; Khoản 2 tăng giảm tối đa 25%; Khoản 2a các trường hợp không được giảm phí; Khoản 4 sửa điểm d;
+  - Liệt kê chính xác Điều 9 (thay thế cụm từ ở các điều khoản cụ thể, không ghi tuyệt đối toàn bộ);
+  - Bổ sung Điều 10 (hiệu lực từ 01/7/2026, hợp đồng đã giao kết tiếp tục theo thỏa thuận, dự án có bảo lãnh Chính phủ ổn định pháp luật).
+- **Đồng bộ trang wiki:** Cập nhật các trang [nd-193-2026.md](wiki/documents/nd-193-2026.md), [nd-254-2025.md](wiki/documents/nd-254-2025.md), [nd-220-2026.md](wiki/documents/nd-220-2026.md).
+- **Kiểm tra chất lượng:** `scripts/lint.py` chạy qua với **0 lỗi**.
+
 ## 2026-11-02 — Ingest toàn văn Chặng 3 và cập nhật bộ câu hỏi (28 câu)
 
 - **Cập nhật bộ câu hỏi kiểm thử Chặng 3:**
