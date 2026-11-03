@@ -1,3 +1,13 @@
+## 2026-11-03 — Hoàn thành nghiệm thu Chặng 3 (28/28 câu Đạt 100%)
+
+- **Nghiệm thu Đạt toàn bộ Chặng 3 (6/6 câu):**
+  - Người dùng đã hoàn tất đối chiếu độc lập đáp án Q20 tại commit `4d3eacd` với toàn văn raw NĐ 220/2026, NĐ 67/2023 và Điều 10 Luật 135/2025.
+  - Chuyển trạng thái Q20 từ `Chưa đạt` sang `Đạt` và gỡ bỏ toàn bộ ghi chú chờ kiểm chứng.
+  - Toàn bộ 6 câu hỏi Chặng 3 (Q17, Q17a, Q18, Q19, Q19a, Q20) chính thức đạt chuẩn 100% căn cứ raw.
+  - Tổng kết toàn bộ wiki: **28/28 câu kiểm thử đạt Đạt (tỷ lệ 100%)**.
+- **Chất lượng hệ thống:**
+  - Chạy `scripts/lint.py`: 0 lỗi (28 câu kiểm thử, 23 files, 92 wikilinks).
+
 ## 2026-11-03 — Hiệu chỉnh Chặng 3 theo kết quả đối chiếu raw (Q17a Đạt, sửa Q17, Q18, Q19, Q19a, Q20)
 
 - **Sửa Q17 (Dẫn đúng Điều NĐ 210/2026):** Sửa Điều 22, 23 thành Điều 30 (quyết toán hợp đồng xây dựng), nêu thêm Điều 28 (thanh toán), Điều 29 (hồ sơ thanh toán), Điều 31 (thanh lý). Bổ sung cảnh báo phân biệt rõ hai bản Mẫu số 01/QTDA trùng số hiệu (Mẫu 01/QTDA kèm NĐ 193 là quyết toán A-B, Mẫu 01/QTDA kèm TT 73 là Báo cáo tổng hợp quyết toán dự án).
